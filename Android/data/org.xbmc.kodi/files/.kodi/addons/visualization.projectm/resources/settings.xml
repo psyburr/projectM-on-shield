@@ -23,7 +23,7 @@
           <control type="list" format="string" />
         </setting>
         <setting id="user_preset_folder" type="path" label="30012" help="0">
-          <default>/storage/emulated/0/Kodi/projectM-on-shield</default>
+          <default>/storage/emulated/0/Android/data/org.xbmc.kodi/files/.kodi/addons/visualization.projectM/on-shield</default>
           <constraints>
             <allowempty>true</allowempty>
           </constraints>
@@ -82,7 +82,7 @@
           <constraints>
             <minimum>5</minimum>
             <step>5</step>
-            <maximum>50</maximum>
+            <maximum>90</maximum>
           </constraints>
           <control type="spinner" format="string">
             <formatlabel>30050</formatlabel>
